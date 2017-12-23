@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Injinj
 tagline:             BNL
 url:                 https://injinj.github.io
-paginate:            1
+paginate:            5
 baseurl:             ""
 google_analytics:    UA-111567875-1
 
