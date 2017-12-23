@@ -7,7 +7,7 @@ tagline:             BNL
 url:                 https://injinj.github.io
 paginate:            5
 baseurl:             ""
-google_analytics:    UA-111567875-1
+analytics_id:        UA-111567875-1
 
 # Assets
 #
