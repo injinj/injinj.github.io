@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Injinj
-tagline:             BNL
+tagline:             To be or not to be eventually consistent
 url:                 https://injinj.github.io
 paginate:            5
 baseurl:             ""
@@ -25,4 +25,3 @@ author:
 # Gems
 gems:
   - jekyll-paginate
-  - jekyll-gist
